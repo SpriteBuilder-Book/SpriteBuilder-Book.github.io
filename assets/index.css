@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+.wrapper {
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+#cover-photo {
+  float: left;
+  max-height: 400pt;
+  max-width: 45%;
+}
+
+#text-body {
+  float: left;
+  width: 35%;
+  margin-left: 20px;
+  line-height: 1.4em;
+}
+
+#title {
+  margin-left: 12px;
+}
