@@ -2,6 +2,16 @@ body {
   font-family: sans-serif;
 }
 
+#github {
+  height: 30pt;
+  margin-right: 10pt;
+}
+
+#appstore {
+  height: 30pt;
+  margin-right: 10pt;
+}
+
 #cover-photo {
   max-width: 100%;
 }
