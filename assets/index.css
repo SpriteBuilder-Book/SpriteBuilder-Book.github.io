@@ -14,3 +14,14 @@ body {
   text-decoration: underline;
   color: #333;
 }
+
+#avatar {
+  width: 40%;
+  float: left;
+  margin-right: 10pt;
+  border-radius: 6px;
+}
+
+.toc_summary {
+  margin-top: 4pt;
+}
